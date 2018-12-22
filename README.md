@@ -2,9 +2,8 @@
 ## How Are You?
 # End-to-end building solutions
 
-##### Show casting the best in building technology and architectural creativity,The times of India ABI Expo 2018 aims to redefine building concepts, right from the foundation to interior design
+##### Show Casting the best in building technology and architectural creativity,The times of India ABI Expo 2018 aims to redefine building concepts, right from the foundation to interior design
             
-###### The Indiam building and construction industry has played a vital roll in the overall development of the country over the years.While automation and innovation have been the focus of construction companies for a while now,with rising price affecting home spaces, the demond for comfortable, utility homes have seen a considerable boost of late.Thid has resulted in interior design becoming an integral part of the construction industry.
 
 ## centOS 7 Notes
 
