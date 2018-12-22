@@ -2,9 +2,6 @@
 ## How Are You?
 # End-to-end building solutions
 
-##### Show Casting the best in building technology and architectural creativity,The times of India ABI Expo 2018 aims to redefine building concepts, right from the foundation to interior design
-            
-
 ## centOS 7 Notes
 
 ### Terminal prompt meanings
