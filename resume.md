@@ -26,6 +26,10 @@
   * Ms Office
   * C-Language
   * HTML,CSS And JavaScript Basics
+  * TOOLS: 
+      Version control system: git
+      Text editor: VS Code
+      
   
 ### PERSONAL SKILLS
   * Positive Attitude
