@@ -28,6 +28,7 @@
   * HTML,CSS And JavaScript Basics
   * TOOLS: 
       Version control system: git
+      
       Text editor: VS Code
       
   
