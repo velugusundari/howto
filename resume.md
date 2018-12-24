@@ -4,8 +4,8 @@
        D/O V.Brahmaji Rao
        D.NO: 11-57
        Kesavarappadu(V)
-       Karamchedu(M)                                                          E-MAIL:velugusundari@gmail.com
-       Prakasam(Dist).                                                        Mobile No: +91-7330931863
+       Karamchedu(M)                                                          E-MAIL: xxxxxxxx
+       Prakasam(Dist).                                                        Mobile No: xxxxxx
    
 ### OBJECTIVE      
         To work in challenging position along with better organisation and my growth along with the 
