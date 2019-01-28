@@ -14,11 +14,13 @@
 ### EDUCATION DETAILS
         COURSE                INSTITUTION                YEAR OF PASSING            PERCENTAGE
         
-        B.TECH-ECE         Nalanda Institute of            2014-2018                    77
+        B.TECH-ECE         Nalanda Institute of            2014-2018                    77%
+        
+        
                            Engineering And Technology.
         
         INTERMEDIATE      Bharathi junior collagr,
-                                Chirala.                   2012-2014                    90.5
+                                Chirala.                   2012-2014                    90.5%
         
         SSC               Z.P High School.                 2011-2012                    8.7 GPA    
         
