@@ -15,9 +15,7 @@
         COURSE                INSTITUTION                YEAR OF PASSING            PERCENTAGE
         
         B.TECH-ECE         Nalanda Institute of            2014-2018                    77%
-        
-        
-                           Engineering And Technology.
+                          Engineering And Technology.
         
         INTERMEDIATE      Bharathi junior collagr,
                                 Chirala.                   2012-2014                    90.5%
